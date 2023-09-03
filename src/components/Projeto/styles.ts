@@ -9,7 +9,7 @@ export const LinkBotao = styled.a`
   color: #fff;
   font-size: 14px;
   background-color: #4476bf;
-  text-decoration: none:
+  text-decoration: none;
   padding: 8px;
   display: inline-block;
   margin-top: 24px;
